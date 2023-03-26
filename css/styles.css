@@ -325,7 +325,7 @@ body {
 }
 .border {
   border: 1px solid #e7e9fc;
-  padding: 0;
+  padding: 32px 16px;
   align-content: flex-start;
 }
 .list {
